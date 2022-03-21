@@ -1,0 +1,36 @@
+.main {
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 30px;
+    background-image: url('../assets/AdobeStock_365131207.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.weather-search {
+    
+    font-size: 18px;
+}
+
+
+/* ***************************
+** Tablet Media Query
+*************************** */
+
+@media screen and (min-width: 480px) {
+}
+
+/* ***************************
+** Desktop Media Query
+*************************** */
+
+@media screen and (min-width: 769px) {
+}
+
+@media screen and (max-width: 500px) {
+}
